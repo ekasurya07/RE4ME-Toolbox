@@ -1,4 +1,4 @@
-# RE4METoolbox
+# RE4ME-Toolbox
 
 **RE4METoolbox** is a collection of lightweight command-line utilities tailored for modding, translating, and exploring **Resident Evil 4 Mobile Edition**.
 
